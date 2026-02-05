@@ -1,6 +1,11 @@
 # Bachelor-Graduation-Project
 A face recognition–based attendance management application developed as a Computer Science graduation project. The system automates attendance tracking by identifying registered users through facial features, reducing manual effort and improving accuracy.
 
+## Demo Video
+A short demonstration of the system, including face recognition, attendance recording, and role-based features for teachers and students.
+▶️ Demo: [Watch the video]https://www.youtube.com/watch?v=6JGWnXHPvno
+
+
 ## Features
 ### General
 - User registration with facial data
