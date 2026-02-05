@@ -2,17 +2,29 @@
 A face recognition–based attendance management application developed as a Computer Science graduation project. The system automates attendance tracking by identifying registered users through facial features, reducing manual effort and improving accuracy.
 
 ## Features
+### General
 - User registration with facial data
 - Face detection and recognition
 - Automatic attendance recording
-- Attendance log storage
+- Secure attendance log storage
 - Simple and user-friendly interface
+### Teacher Features
+- Create and manage courses
+- Accept or reject student enrollment requests
+- Upload student lists for courses
+- View attendance records and absence counts
+- Send warnings to students based on attendance status
+### Student Features
+- Enroll in available courses
+- View daily attendance and presence records
+- Track absence count for each course
+- View warnings sent by instructors
 
 ## Technologies Used
-- Programming Language: [Python / Java / other]
-- Face Recognition: [OpenCV, CNN, LBPH, Haar Cascade, etc.]
-- Database: [MySQL / SQLite / Firebase / other]
-- Tools: [Power BI, if used for analysis / any framework]
+- Programming Language: [Python / Java]
+- Face Recognition: [OpenCV, Face Recognition Python Library]
+- Database: [CSV files / SQLite]
+- Tools: [Pycharm/ FastAPI/ Android Studio]
 
 ## How It Works
 1. Users are registered in the system with their facial data.
