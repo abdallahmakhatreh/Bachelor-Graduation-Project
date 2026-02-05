@@ -2,8 +2,13 @@
 A face recognition–based attendance management application developed as a Computer Science graduation project. The system automates attendance tracking by identifying registered users through facial features, reducing manual effort and improving accuracy.
 
 ## Demo Video
-A short demonstration of the system, including face recognition, attendance recording, and role-based features for teachers and students.
-▶️ Demo: [Watch the video]https://www.youtube.com/watch?v=6JGWnXHPvno
+
+A short demonstration of the Attendance System in action — showing registration, face recognition, attendance functionality, and role‑based views for students and teachers.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6JGWnXHPvno" title="Demo: Face Recognition Attendance System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Watch on YouTube:** https://youtu.be/6JGWnXHPvno
+
 
 
 ## Features
