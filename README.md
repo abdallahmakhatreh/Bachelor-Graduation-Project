@@ -4,7 +4,7 @@ A face recognition–based attendance management application developed as a Comp
 ## Demo Video
 Watch a short demonstration of the Attendance System in action — showing registration, face recognition, attendance tracking, and role-based views for students and teachers.
 
-[▶️ Watch the Demo on YouTube](https://www.youtube.com/watch?v=6JGWnXHPvno)
+[▶️ Watch the Demo on YouTube](https://www.youtube.com/watch?v=FFu1HL4AGg0)
 
 ## Features
 ### General
